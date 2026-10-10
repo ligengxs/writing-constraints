@@ -1,0 +1,12 @@
+{
+  "name": "writing-tools",
+  "plugins": [
+    {
+      "name": "writing-constraints",
+      "source": {
+        "source": "local",
+        "path": "."
+      }
+    }
+  ]
+}

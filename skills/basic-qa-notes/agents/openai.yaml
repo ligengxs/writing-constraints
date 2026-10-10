@@ -1,0 +1,6 @@
+interface:
+  display_name: "Basic Q&A Notes"
+  short_description: "Keep reusable Q&A context in concise project notes"
+  default_prompt: "Use $basic-qa-notes to record and reuse concise Q&A context in project documentation."
+policy:
+  allow_implicit_invocation: false

@@ -1,0 +1,6 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "writing-constraints",
+  "version": "1.0.0",
+  "description": "书写约束：技术文档清晰度、去除 AI 写作套路、项目问答笔记。"
+}

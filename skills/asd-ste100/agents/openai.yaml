@@ -1,0 +1,4 @@
+interface:
+  display_name: "ASD-STE100"
+  short_description: "Draft and review clear technical documentation"
+  default_prompt: "Use $asd-ste100 to write or review this technical documentation with ASD-STE100 as a writing reference."
